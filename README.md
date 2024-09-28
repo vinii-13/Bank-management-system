@@ -10,5 +10,5 @@ _User Details:_ Displays all account details linked to a particular user.
 _Seamless Navigation:_ The program includes a menu-driven interface for easy navigation and a smooth user experience.
 
 _Tech Stack:_ C++, STL (Standard Template Library), Object-Oriented Programming concepts such as classes, encapsulation, and friend functions.
-
  
+[Bank Management System.pdf](https://github.com/user-attachments/files/17175642/Bank.Management.System.pdf)
